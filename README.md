@@ -46,9 +46,9 @@ Interactive visualization of latency, scaling and cost simulation results:
 
 ## 👥 Authors
 Group 14 — MSGAI Course  
-- Tech A – Measurement & Engineering  
-- Tech B – Simulation  
-- Tech C – Report Writing  
+- Tech A Lishang Xu – Measurement & Engineering  
+- Tech B Shaotong Sun– Simulation  
+- Tech C Bole Yi– Report Writing  
 
 ---
 
