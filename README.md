@@ -30,10 +30,11 @@ README.md           # This file
 - Notebooks show the full measurement and data collection process  
 
 ### **2. Simulation & Scheduling (B part)**
-- M/G/k queueing model with empirical service times  
-- FCFS vs SJF scheduling  
-- Multi-server scaling (1/2/4 GPUs)  
-- Evaluation of P99 latency, throughput and GPU cost  
+- M/G/k Queuing Model: Simulation using empirical service times derived from SDXL measurements. 
+- Advanced Scheduling Policies: Comparison of SJF (Shortest Job First), FCFS, and a Smart Adaptive policy (queue-dependent mode switching).  
+- Dynamic Auto-scaling: Implementation of a resource manager that dynamically scales between 1 and 4 GPUs based on real-time load to optimize GPU efficiency.
+- Multi-dimensional Evaluation: Analysis of P99 latency, throughput, and Image Quality (CLIP scores) trade-offs.
+ 
 
 ---
 
