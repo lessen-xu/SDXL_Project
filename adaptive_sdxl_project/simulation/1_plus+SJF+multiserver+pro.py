@@ -309,7 +309,7 @@ def main():
         "high":  "Static High Quality",
         "fast":  "Static Fast",
         "smart": "Smart Adaptive",
-        "sjf":   "SJF (Small Jobs First)",
+        "sjf":   "SJF (Shortest Jobs First)",
     }
 
     # GPU counts (capacity) we are interested in
